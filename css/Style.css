@@ -1,0 +1,14 @@
+ol.romano 
+{
+    list-style-type: upper-roman;
+}
+
+ul.quadrado
+{
+    list-style-type: square;
+}
+
+h1 
+{
+    color: rgb(255, 0, 0);
+}
